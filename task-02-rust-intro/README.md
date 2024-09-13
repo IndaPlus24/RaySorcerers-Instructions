@@ -11,13 +11,13 @@ Modified by: Isak Larsson
 
 ### Prepare for your assigment
 
-Your first assignment is turned in by uploading it to a repository named `<KTH_ID>-<task name>` (ex. `bwidman-rustIntro`) under the `IndaPlus23` organisation. Be careful to get the spelling right.
+Your first assignment is turned in by uploading it to a repository named `<KTH_ID>-<task name>` (ex. `bwidman-rust-intro`) under the `IndaPlus24` organisation. Be careful to get the spelling right.
 
 The grade to an assigment is left in the form of an issue with "Pass", "Komplettering", or "Fail" in the title. In case of "Komplettering", read the instructions on what to adjust down in the issue description. Leave a comment on the issue upon reupload of the assignment. "Pass" and "Fail" are self explanatory. 
 
-1) Create a repository named `<KTH_ID>-<task name>`. (ex. `bwidman-rustIntro`)
+1) Create a repository named `<KTH_ID>-<task name>`. (ex. `bwidman-rust-intro`)
 2) Clone your newly created repository.
-`git clone git@github.com:IndaPlus23/<KTH_ID>-<task name>.git`
+`git clone git@github.com:IndaPlus24/<KTH_ID>-<task name>.git`
 3) Create one Rust crate (term for application or library) per subassignment. 
 
 #### How to create a Rust application (_binary_) crate
@@ -48,9 +48,9 @@ Write your source code in `src`, where the `main` function is located in `src/ma
 This week, you're going to learn the basics of Rust by solving easier [Kattis](https://kth.kattis.com) problems. For each problem, create one Rust crate in your repo. Include a screenshot of your Kattis submission to prove solution. See `./minimal_scalar_product` for a Kattis solution example.
 
 Solve at least two of the following problems:
-- [Summera tal](https://kth.kattis.com/courses/DD2016/plusplus23/assignments/nx4ezb/problems/kth.javap.sumsort)
-- [Avstånd till kanten](https://kth.kattis.com/courses/DD2016/plusplus23/assignments/nx4ezb/problems/kth.javap.kant)
-- [Cyber-Clara och anmälningslistorna](https://kth.kattis.com/courses/DD2016/plusplus23/assignments/nx4ezb/problems/kth.grupdat.anmalningslistorna)
+- [Summera tal](https://kth.kattis.com/courses/DD2016/plusplus24/assignments/q4npcz/problems/kth.javap.sumsort)
+- [Avstånd till kanten](https://kth.kattis.com/courses/DD2016/plusplus24/assignments/q4npcz/problems/kth.javap.kant)
+- [Cyber-Clara och anmälningslistorna](https://kth.kattis.com/courses/DD2016/plusplus24/assignments/q4npcz/problems/kth.grupdat.anmalningslistorna)
 
 _(optional fun)_:
 - [Game Rank](https://open.kattis.com/problems/gamerank)
