@@ -28,7 +28,7 @@ For help with code setup, begin by copying the contents of `./kattis_template/ma
 
 If you're not familiar with the C language I recommend reading up on it online, for example [GeeksForGekks](https://www.geeksforgeeks.org/c-programming-language/).
 
-## Assignment 1 - Kattis
+## Assignment 1 - Kattis (optional)
 
 As a warmup, solve [A Different Problem](https://open.kattis.com/problems/different), which is now on Open Kattis and not KTH's Kattis (i.e. not locked behind courses😄).
 
