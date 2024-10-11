@@ -55,7 +55,7 @@ So the important values we have are:
 | q = large prime | Random, but p != q. |
 | n = p * q | The modulo. Public, but it's incredibly hard to find the two prime factors. |
 | r = (p-1)(q-1) | Modulo to find d. Actually Euler's phi function of n, but don't mind that until diskmatten. |
-| e = 17 | The encryption exponent. Public. Can be other bigger prime numbers but we keep it small to not run into overflow. |
+| e = 7 | The encryption exponent. Public. Can be other bigger prime numbers but we keep it small to not run into overflow. |
 | d = e^-1 (mod r) | The decryption exponent. Private. |
 
 The public key is `(e, n)` while the private key is `(d, n)` (n is included in the private key here for simplicity). How these are stored in the files is up to you, whether it's raw data or plain text separated into two lines.
