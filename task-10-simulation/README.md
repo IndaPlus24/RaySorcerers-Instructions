@@ -8,7 +8,7 @@ With all the BAS-MATTE, LINALG, and Fysik 1-2, you are ready to write a piece of
 
 _The Nature of Code_ is a 14 week course written by [Daniel Shiffman](https://www.youtube.com/c/TheCodingTrain/featured). It covers the basics of physics simulation, including particle systems and flocking behaviour. Your assignment for the next week is to follow and implement one chapter of _The Nature of Code_. Yes, this does include the front-end samples.
 
-Book: https://natureofcode.com/book/preface/ 
+Book: https://natureofcode.com/
 
 ### Prepare Assignment
 
