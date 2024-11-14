@@ -14,9 +14,9 @@ Book: https://natureofcode.com/
 
 1) Create a repository named `<KTH_ID>-simulation` and clone it. 
 2) Navigate into your newly created repository and start writing.
-    - Implement the logic of a chapter of choice.
+    - Implement the logic of a chapter of choice, though it's not required to do the entire chapter.
     - Visualise the logic, either like the book samples, or something more creative.
-    - Consider writing unit tests as practise.
+    - Consider writing unit tests as practice.
 
 **Note**: You may implement your solution using any language. The only drawback is that the book assumes that you run OOP. Obviously, this is not the case (for me). However, you should be able to do your own interpretations.
 
@@ -32,3 +32,5 @@ See `./examples` for three examples in Piston, courtesy of Viola.
 ### Your README
 
 Because your solution can be implemented using any language, write in a README file of how to build and run your application (that includes how to run any unit tests and your frontend application).
+
+Also write about what chapter you have implemented and which parts.
