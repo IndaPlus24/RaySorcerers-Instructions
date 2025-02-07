@@ -9,7 +9,7 @@ You think you know lists, but you don't (or maybe you do, who knows?). Prove it,
 ### Prepare for your assignment
 
 1) Create a repository named `<KTH_ID>-graphs`.
-2) Clone your newly created repository and start coding. 
+2) Clone your newly created repository and start coding.
 
 To make your Kattis-experience easier, see `./kattis_template/src/main.rs`. If you're mot all förmodan using Java, make use of [this utility class](https://open.kattis.com/download/Kattio.java?1a0093=) to simplify input-output fast enough to satisfy the judge.
 
@@ -17,11 +17,15 @@ To make your Kattis-experience easier, see `./kattis_template/src/main.rs`. If y
 
 For this week you have two assignments:
 1) Use a binary search tree to sort an array, and
-2) solve two Kattis problems involving graphs. 
+2) solve two Kattis problems involving graphs.
 
 ### Tree structure
 
-You are required to write an implementation of a binary search tree (BST) structure and then use it to sort arrays, as a way to prove it's correctness.
+You are required to write an implementation of a [binary search tree (BST)](https://en.wikipedia.org/wiki/Binary_search_tree) structure and then use it to sort arrays, as a way to prove its correctness. 
+
+You could also _(optionally)_ try implementing a [self-balancing BST](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree) (instead or in addition to BST), such as an [AVL tree](https://en.wikipedia.org/wiki/AVL_tree) or a [red–black tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree). 
+
+A template with tests can be found in [bst-template](bst_template).
 
 ### Graph problems
 
